@@ -53,10 +53,10 @@
 
 | Project | Description |
 |---------|-------------|
-| 📈 **SmartInvest Dashboard** | Portfolio optimization dashboard using Mean-Variance Model Portfolio (MVMP) and Single Index Model (SIM), deployed with Streamlit. |
-| 🛒 **E-Commerce Analytics Dashboard** | Interactive dashboard for analyzing sales performance, customer behavior, and key business metrics. |
-| 💳 **Credit Card Default Dashboard** | Business intelligence dashboard visualizing credit default trends and customer insights using Looker Studio. |
-| 🤖 **Machine Learning Projects** | Collection of machine learning notebooks covering classification, regression, clustering, and predictive modeling in Google Colab. |
+| **SmartInvest Dashboard** | Portfolio optimization dashboard using Mean-Variance Model Portfolio (MVMP) and Single Index Model (SIM), deployed with Streamlit. |
+| **E-Commerce Analytics Dashboard** | Interactive dashboard for analyzing sales performance, customer behavior, and key business metrics. |
+| **Credit Card Default Dashboard** | Business intelligence dashboard visualizing credit default trends and customer insights using Looker Studio. |
+| **Machine Learning Projects** | Collection of machine learning notebooks covering classification, regression, clustering, and predictive modeling in Google Colab. |
 
 ---
 
