@@ -4,8 +4,6 @@
 
 ### 🎓 Final Year Statistics Student | Data Science & Analytics Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=550&lines=Statistics+Student;Data+Science+Enthusiast;Machine+Learning+Learner;Always+Learning+New+Things"/>
-
 </div>
 
 ---
